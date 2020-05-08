@@ -28,7 +28,7 @@ To run the webpage:
 -Git
 
 ## Link to Github Pages
-
+https://barsilnzola.github.io/akan-name/
 
 ## Copyright and Licence
 MIT License
