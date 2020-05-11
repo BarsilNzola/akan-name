@@ -1,4 +1,4 @@
-function akanName() {
+function name() {
 	var mM = document.getElementById(mm);
 	var dD = document.getElementById(dd);
 	var yYYY = document.getElementById(yyyy);
@@ -68,5 +68,5 @@ function akanName() {
 	}
 
 
-	alert("Your date of birth is" + dob + "and gender is" + gender + "Your Akan Name is .....")
+	alert("Your Akan Name is" + akanname)
 }
